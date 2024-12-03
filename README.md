@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/AdriGDev/MyDogVsCatIA/blob/main/DogVsCat.gif" alt="project-screenshot" width="1500" height="800/">
+<img src="https://github.com/AdriGDev/MyDogVsCatIA/blob/main/DogVsCat.gif" alt="project-screenshot" width="2000" height="800/">
 
   
   
