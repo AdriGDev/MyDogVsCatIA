@@ -15,6 +15,7 @@ Technologies used in the project:
 *   Python
 *   TensorFlow
 *   Streamlit
+*   Google Colab (Create and training the model)
 
 <h2>🛡️ License:</h2>
 
