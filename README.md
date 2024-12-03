@@ -2,7 +2,7 @@
 
 <p id="description">My First Convolutional red based IA Based to classify dogs and cats images.</p>
 
-<h2>Project Screenshots:</h2>
+<h2>Project Showcase</h2>
 
 <img src="https://github.com/AdriGDev/MyDogVsCatIA/blob/main/DogVsCat.gif" alt="project-screenshot" width="2000" height="800/">
 
